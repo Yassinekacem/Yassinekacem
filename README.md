@@ -1,8 +1,8 @@
 # 👨‍💻 Hey, je suis Yassine  
 
-✨ Développeur passionné, curieux et créatif.  
-🚀 J’adore concevoir des applications **web, mobiles et backend** en explorant les dernières technologies.  
-🌍 Mon objectif : transformer des idées en solutions digitales utiles et élégantes.  
+✨ Étudiant en Software Engineering.  
+🚀 Développeur passionné, curieux et créatif, j’aime concevoir des applications **web, mobiles & backend** en explorant les dernières technologies.  
+🌍 Mon objectif : transformer des idées en solutions digitales utiles, élégantes et performantes.  
 
 ---
 
@@ -45,10 +45,9 @@
 
 ---
 
-## 📊 Stats GitHub  
+## 📊 Statistiques de GitHub  
 
-![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight)  
-
+### Langages les plus utilisés  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight)  
 
 ---
