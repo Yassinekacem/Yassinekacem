@@ -33,7 +33,18 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
+### ☁️ Outils & Cloud  
+<p>
+  <img src="https://img.shields.io/badge/Docker-7F3FBF?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-2D2D2D?style=for-the-badge&logo=kubernetes&logoColor=7F3FBF"/>
+  <img src="https://img.shields.io/badge/Git-7F3FBF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=7F3FBF"/>
+  <img src="https://img.shields.io/badge/Postman-7F3FBF?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-2D2D2D?style=for-the-badge&logo=figma&logoColor=7F3FBF"/>
+  <img src="https://img.shields.io/badge/Prisma-7F3FBF?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-2D2D2D?style=for-the-badge&logo=drizzle&logoColor=7F3FBF"/>
+  <img src="https://img.shields.io/badge/Cloudinary-7F3FBF?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
 ---
 
 ## 📊 Mes statistiques GitHub  
