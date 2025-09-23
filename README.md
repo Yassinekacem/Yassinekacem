@@ -60,9 +60,8 @@
 
 ## 🌐 Connecte-toi avec moi  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D2DD?style=for-the-badge&logo=firefox&logoColor=7F3FBF)](https://ton-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)  
+[![LinkedIn](https://www.linkedin.com/in/kacem-yassine-8726ba254/)  
+[![Portfolio](https://kacem-portfolio.vercel.app/)  
 
 ---
 
