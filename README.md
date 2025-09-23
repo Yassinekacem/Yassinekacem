@@ -1,7 +1,7 @@
 # 👨‍💻 Hey, je suis Yassine  
 
 ✨ Étudiant en Software Engineering.  
-🚀 Développeur passionné, curieux et créatif, j’aime concevoir des applications **web, mobiles & backend** en explorant les dernières technologies.  
+🚀 Développeur passionné, curieux et créatif, j’aime concevoir des applications **web et mobiles** en explorant les dernières technologies.  
 🌍 Mon objectif : transformer des idées en solutions digitales utiles, élégantes et performantes.  
 
 ---
