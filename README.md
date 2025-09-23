@@ -38,13 +38,14 @@
 
 ## 📊 Mes statistiques GitHub  
 
-![Commits 2023](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2023)
-![Commits 2024](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2024)
-![Commits 2025](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2025)
+<!-- Commits par année -->
+![Commits 2023](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2023&hide=prs&count_private=true&token=GH_TOKEN)
+![Commits 2024](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2024&hide=prs&count_private=true&token=GH_TOKEN)
+![Commits 2025](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2025&hide=prs&count_private=true&token=GH_TOKEN)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKacem&layout=compact&theme=tokyonight)
+<!-- Langages les plus utilisés -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKacem&layout=compact&theme=tokyonight&count_private=true&token=GH_TOKEN)
 
----
 
 ## 🌐 Connecte-toi avec moi  
 
