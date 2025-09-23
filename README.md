@@ -46,15 +46,12 @@
 
 ---
 
-## 📊 Mes statistiques GitHub  
+## 📊 Stats GitHub  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight)  
+![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKacem&layout=compact&theme=tokyonight)
 
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonPseudo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
----
 
 ## 🌐 Connecte-toi avec moi  
 
