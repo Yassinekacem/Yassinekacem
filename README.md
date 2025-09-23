@@ -1,17 +1,19 @@
-<!-- Bannière personnalisée -->
+<!-- Custom Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7564cf&height=200&section=header&text=Hey,%20I'm%20Yassine!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Student&descAlignY=55&descAlign=62)
 
 <div align="center">
 
-# 🚀 Bienvenue sur mon GitHub
+# 🚀 Welcome to my GitHub Profile
 
-**🎓 Software Engineer Student | ✨ Full-Stack Developer | 🌟 Tech Enthusiast**
+**🎓 Software Engineering Student | ✨ Full-Stack Developer | 🌟 Tech Enthusiast**
 
-*Développeur passionné, curieux et créatif qui transforme des idées en solutions digitales élégantes*
+*Passionate, curious, and creative developer transforming ideas into elegant digital solutions*
+
+🔍 **Currently seeking an end-of-studies internship opportunity**
 
 ---
 
-### 🔗 **Connecte-toi avec moi**
+### 🔗 **Connect with me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kacem-yassine-8726ba254/" target="_blank">
@@ -29,7 +31,7 @@
 
 ---
 
-## 🛠️ **Stack Technologique**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
@@ -90,21 +92,46 @@
 
 ---
 
-## 🌟 **Ce que je fais**
+## 🌟 **About Me**
 
-- 🔭 **Actuellement :** Développement d'applications web modernes avec React/Next.js
-- 🌱 **En apprentissage :** Architecture cloud et DevOps avancé
-- 👯 **Collaboration :** Ouvert aux projets open source et aux collaborations
-- 💬 **Demandez-moi :** Full-stack development, React, Spring Boot, bases de données
-- ⚡ **Fun fact :** Le code pour moi, c'est comme un **super-pouvoir violet** 🟣 : il me permet de donner vie à mes idées !
+- 🔭 **Currently working on:** Modern web applications with React/Next.js ecosystem
+- 🌱 **Learning:** Advanced cloud architecture and DevOps best practices
+- 🎯 **Seeking:** End-of-studies internship opportunities in full-stack development
+- 👯 **Open to:** Collaborate on open source projects and innovative solutions
+- 💬 **Ask me about:** Full-stack development, React ecosystem, Spring Boot, databases
+- 📚 **Academic focus:** Software engineering with emphasis on modern web technologies
+
+---
+
+## 💼 **Looking for Internship**
+
+<div align="center">
+
+### 🎓 **End-of-Studies Internship Opportunity**
+
+I'm actively seeking a **6-month internship** to complete my Software Engineering degree.
+
+**What I bring:**
+- Strong foundation in full-stack development
+- Experience with modern frameworks and tools
+- Passion for clean code and best practices
+- Eagerness to learn and contribute to real-world projects
+
+**What I'm looking for:**
+- Hands-on experience in software development
+- Mentorship and professional growth
+- Opportunity to work on meaningful projects
+- Team collaboration and agile methodologies
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💖 **Merci pour votre visite !**
+### 💖 **Thank you for visiting!**
 
-*N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !*
+*Feel free to explore my repositories and reach out for any collaboration or internship opportunities!*
 
 <img src="https://komarev.com/ghpvc/?username=YassineKacem&color=7564cf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
