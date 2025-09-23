@@ -34,32 +34,20 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔹 Outils & Cloud  
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-FFCC00?style=for-the-badge&logo=drizzle&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-</p>
-
 ---
 
-## 📊 Stats GitHub  
+## 📊 Mes statistiques GitHub  
 
 <p align="center">
+  <!-- total commits pour 2023 -->
+  ![Commits 2023](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2023)  
+  <!-- total commits pour 2024 -->
+  ![Commits 2024](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2024)  
+  <!-- total commits pour 2025 -->
+  ![Commits 2025](https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&commits_year=2025)  
+  <br>
   <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKacem&layout=compact&theme=tokyonight"/>
-  
-  <!-- Stats générales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight"/>
-  
-  <!-- Streak (jours de contributions consécutifs) -->
-  <img src="https://streak-stats.demolab.com?user=YassineKacem&theme=tokyonight"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKacem&layout=compact&theme=tokyonight)  
 </p>
 
 ---
@@ -67,7 +55,7 @@
 ## 🌐 Connecte-toi avec moi  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D2D2D?style=for-the-badge&logo=firefox&logoColor=7F3FBF)](https://ton-portfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D2DD?style=for-the-badge&logo=firefox&logoColor=7F3FBF)](https://ton-portfolio.com)  
 [![Email](https://img.shields.io/badge/Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)  
 
 ---
