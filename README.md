@@ -1,11 +1,11 @@
 <!-- Bannière personnalisée -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=200&section=header&text=Hey,%20I'm%20Yassine!%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=200&section=header&text=Hey,%20I'm%20Yassine!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 👋 Bienvenue sur mon GitHub  
+#  Bienvenue sur mon GitHub  
 
 🎓 **Software Engineer Student**  
 ✨ Développeur passionné, curieux et créatif.  
-🚀 J’adore concevoir des applications **web, mobiles et backend** en explorant les dernières technologies.  
+🚀 J’adore concevoir des applications **web, mobiles** en explorant les dernières technologies.  
 🌍 Mon objectif : transformer des idées en solutions digitales utiles et élégantes.  
 
 ---
@@ -49,11 +49,18 @@
 
 ---
 
-## 📊 Mes statistiques GitHub  
+## 📊 Stats GitHub  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=radical)  
-
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonPseudo&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <!-- Langages les plus utilisés -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKacem&layout=compact&theme=tokyonight"/>
+  
+  <!-- Stats générales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight"/>
+  
+  <!-- Streak (jours de contributions consécutifs) -->
+  <img src="https://streak-stats.demolab.com?user=YassineKacem&theme=tokyonight"/>
+</p>
 
 ---
 
