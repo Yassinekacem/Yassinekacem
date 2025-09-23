@@ -1,5 +1,5 @@
 <!-- Bannière personnalisée -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey,%20I'm%20Yassine!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Student&descAlignY=55&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7564cf&height=200&section=header&text=Hey,%20I'm%20Yassine!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Student&descAlignY=55&descAlign=62)
 
 <div align="center">
 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://kacem-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7F3FBF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7F3FBF" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-7564cf?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7564cf" alt="Portfolio"/>
   </a>
   <a href="mailto:yassine.kacem@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
@@ -90,35 +90,6 @@
 
 ---
 
-## 📊 **Statistiques GitHub**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineKacem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKacem&layout=compact&theme=tokyonight&count_private=true&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YassineKacem&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 **Projets Phares**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YassineKacem&repo=projet1&theme=tokyonight&hide_border=true)](https://github.com/YassineKacem/projet1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YassineKacem&repo=projet2&theme=tokyonight&hide_border=true)](https://github.com/YassineKacem/projet2)
-
-</div>
-
----
-
 ## 🌟 **Ce que je fais**
 
 - 🔭 **Actuellement :** Développement d'applications web modernes avec React/Next.js
@@ -129,25 +100,15 @@
 
 ---
 
-## 📈 **Activité de Contribution**
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YassineKacem&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💖 **Merci pour votre visite !**
 
 *N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !*
 
-<img src="https://komarev.com/ghpvc/?username=YassineKacem&color=7F3FBF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YassineKacem&color=7564cf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7564cf&height=120&section=footer)
