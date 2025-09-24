@@ -18,10 +18,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kacem-yassine-8726ba254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://kacem-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7564cf?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7564cf" alt="Portfolio"/>
-  </a>
+  
   <a href="mailto:yassine.kacem@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
